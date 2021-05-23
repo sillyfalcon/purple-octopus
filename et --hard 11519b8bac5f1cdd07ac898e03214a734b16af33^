@@ -1,0 +1,71 @@
+[33mcommit 3229001e518bf22b9d65901ed299a84ae5342009[m[33m ([m[1;36mHEAD -> [m[1;32mtest[m[33m)[m
+Author: me-nobody <anubratadas@gmail.com>
+Date:   Sun May 23 12:51:27 2021 +0530
+
+    latest
+
+[33mcommit f16e7d5c927b9af44aec31b1a4af8f5bc04f3adb[m
+Merge: 7eaf3d1 1b43e0f
+Author: me-nobody <anubratadas@gmail.com>
+Date:   Sun May 23 12:49:15 2021 +0530
+
+    Merge branch 'main' of https://github.com/sillyfalcon/purple-octopus into test
+
+[33mcommit 7eaf3d1424a45b12c7eb682bb13674bdb1f2079f[m
+Author: me-nobody <anubratadas@gmail.com>
+Date:   Sun May 23 12:22:05 2021 +0530
+
+    sunday afternoon
+
+[33mcommit 1b43e0f1f0dba419d09ad9e215a9cb3cd60f27ef[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: e3324ba 49d24d9
+Author: me-nobody <anubratadas@gmail.com>
+Date:   Sun May 23 00:00:21 2021 +0530
+
+    Merge pull request #4 from sillyfalcon/anubrata/test
+    
+    Anubrata/test
+
+[33mcommit 49d24d945434fcf5b9e514ffcf6f7dc48c24abc1[m[33m ([m[1;31morigin/anubrata/test[m[33m)[m
+Merge: 64f98d0 e3324ba
+Author: me-nobody <anubratadas@gmail.com>
+Date:   Sat May 22 17:33:38 2021 +0530
+
+    notebook changed
+
+[33mcommit e3324ba40c1f1ceaf9cecaaacece52bd33660d4e[m
+Merge: 11519b8 3328cfc
+Author: me-nobody <anubratadas@gmail.com>
+Date:   Sat May 22 17:28:12 2021 +0530
+
+    Merge pull request #3 from sillyfalcon/sillyfalcon/may22
+    
+    first 3 lines in jupnotebook
+
+[33mcommit 64f98d01e8334dc8891a2565e38246aadfcfb30d[m
+Author: me-nobody <anubratadas@gmail.com>
+Date:   Sat May 22 17:26:05 2021 +0530
+
+    notebook added
+
+[33mcommit 3328cfc94f27cd489430a7c9f112792e1e676df4[m[33m ([m[1;31morigin/sillyfalcon/may22[m[33m)[m
+Author: sillyfalcon <mssillyfalcon@gmail.com>
+Date:   Sat May 22 15:45:43 2021 +0530
+
+    first 3 lines in jupnotebook
+
+[33mcommit 11519b8bac5f1cdd07ac898e03214a734b16af33[m
+Author: sillyfalcon <mssillyfalcon@gmail.com>
+Date:   Sat May 22 09:49:18 2021 +0530
+
+    Adding a shiny python file
+    
+    Added the file from https://github.com/guipsamora/pandas_exercises/blob/master/02_Filtering_%26_Sorting/Chipotle/Exercises.ipynb.
+    
+    Haven't forked it to try to reduce complexities. If it doesn't work will create a new file from scratch.
+
+[33mcommit 14e90087c8ced9236117eeaf75460213acaf6266[m
+Author: sillyfalcon <mssillyfalcon@gmail.com>
+Date:   Sat May 22 09:33:26 2021 +0530
+
+    Create a new index file
